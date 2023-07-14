@@ -1,0 +1,723 @@
+
+@media all and (max-width:1280px) {
+    .wlogo{
+        width:175px;
+        height:45px;
+    }
+        .wlogo h1{
+            font-size: 1.5em;
+            
+        }
+        #wlg{
+            font-size: 1.5em;
+        }
+    
+        #wheading{
+            font-size:1.7em;
+        }
+    
+       
+    
+        button{
+            width:32px;
+            height:32px;
+        }
+        button a{
+            font-size: 1.4em;
+        }
+    
+        
+        #back{
+            width:75px;
+            height:40px;
+            border-radius:0px;
+        }
+        #back a{
+            font-size: 1.1em;
+        }
+    
+    }
+@media all and (max-width:1200px) {
+.wlogo{
+    width:175px;
+    height:45px;
+}
+    .wlogo h1{
+        font-size: 1.5em;
+        
+    }
+
+    #heading{
+        font-size:1.7em;
+    }
+
+    
+
+    button{
+        width:25px;
+        height:25px;
+    }
+    button a{
+        font-size: 1em;
+    }
+
+   
+    #wback{
+        width:75px;
+        height:40px;
+        border-radius:0px;
+    }
+    #wback a{
+        font-size: 1.1em;
+    }
+
+}
+@media all and (max-width:991px){
+    .wlogo{
+        margin-top:5%;
+        width:170px;
+        height:55px;
+        margin-left:4%;
+           }
+        .wlogo h1{
+        font-size:1.5em;}
+#heading{
+    margin-top:5%;
+    font-size: 2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        margin:0 10%;
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    .title,.title2,.titlems {
+        margin-top:-110%;
+        margin-left:-32%;
+    }
+   
+    
+    
+#wback{
+    width:90px;
+height:50px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: 1em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+}
+
+
+
+@media all and (max-width:900px){
+    .wlogo{
+        margin-top:5%;
+        width:170px;
+        height:55px;
+        margin-left:4%;
+           }
+        .logo h1{
+        font-size:1.5em;}
+#heading{
+    margin-top:5%;
+    font-size: 2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        margin:0 10%;
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+    
+    
+#wback{
+    width:90px;
+height:50px;
+border-radius: 20px;
+}
+#wback a{
+    font-size: 1em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+}
+
+
+
+
+@media all and (max-width:768px){
+    .wlogo{
+        margin-top:5%;
+        width:160px;
+        height:50px;
+        margin-left:4%;
+           }
+        .lwogo h1{
+        font-size:1.4em;}
+#heading{
+    margin-top:5%;
+    font-size: 2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        margin:0 5%;
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+  
+    
+#wback{
+    width:90px;
+height:50px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: 1em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+}
+@media all and (max-width:600px){
+    .wlogo{
+        width:150px;
+        height:40px;
+        margin-left:4%;
+           }
+        .wlogo h1{
+        font-size:1em;}
+
+        #wlg{
+            font-size: 1.3em;
+        }
+#wheading{
+    margin-top:5%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+        padding-right:15%;
+    }
+    
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+    button{
+        width:28px;
+        height:28px;
+    }
+    button a{
+        font-size: 1.5em;
+    }
+    
+    
+    
+    
+#wback{
+    width:80px;
+height:50px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: 1em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+}
+
+
+
+@media all and (max-width:480px){
+    .wlogo{
+        width:150px;
+        height:40px;
+        margin-left:4%;
+           }
+        .wlogo h1{
+        font-size:1.3em;}
+        #wlg{
+            font-size: 1.2em;
+        }
+
+#wheading{
+    margin-top:5%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+#wback{
+    width:60px;
+height:35px;
+border-radius: 20px;
+}
+#wback a{
+    font-size: .9em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+}
+
+@media all and (max-width:414px){
+    .wlogo{
+        width:130px;
+        height:30px;
+        margin-left:4%;
+           }
+       
+        #wlg{
+            font-size: 1.1em;
+        }
+
+#wheading{
+    margin-top:5%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+    button{
+        width:25px;
+        height:25px;
+    }
+
+    button a{
+        font-size:1em;
+    }
+    
+    
+    
+    
+#wback{
+    width:55px;
+height:33px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: .9em;
+}
+
+    footer{
+        margin-top:5%;
+    }
+    footer p{
+        font-size: .8em;
+    }}
+
+@media all and (max-width:411px){
+        .wlogo{
+            width:130px;
+            height:30px;
+            margin-left:4%;
+               }
+            .wlogo h1{
+            font-size:1em;}
+            #wlg{
+                font-size: 1em;
+            }
+
+    #wheading{
+        margin-top:5%;
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+     section{
+            grid-template-columns: 1fr;
+        }
+        section{
+            padding-right:15%;
+        }
+        .wp1,.wp2,.wp3{margin-top:10%;
+        margin-bottom: 5%;}
+        
+        
+        
+    #wback{
+        width:50px;
+    height:30px;
+    border-radius: 0px;
+    }
+    #wback a{
+        font-size: .8em;
+    }
+    
+        footer{
+            margin-top:5%;
+        }
+        footer p{
+            font-size: .8em;
+        }}
+@media all and (max-width:400px){
+            .wlogo{
+                width:130px;
+                height:35px;
+                margin-left:4%;
+                   }
+                .wlogo h1{
+                font-size:1.1em;}
+                #wlg{
+                    font-size: 1em;
+                }
+
+        #wheading{
+            margin-top:5%;
+            font-size: 1em;
+            text-align: center;
+        }
+        
+         section{
+                grid-template-columns: 1fr;
+            }
+            section{
+                padding-right:15%;
+            }
+            .wp1,.wp2,.wp3{margin-top:10%;
+            margin-bottom: 5%;}
+           
+            
+            
+            
+            
+            
+           
+            
+            
+        #wback{
+            width:50px;
+        height:30px;
+        border-radius: 0px;
+        }
+        #wback a{
+            font-size: .8em;
+        }
+        
+            footer{
+                margin-top:5%;
+            }
+            footer p{
+                font-size: .8em;
+            }}
+@media all and (max-width:384px){
+                .wlogo{
+                    width:130px;
+                    height:35px;
+                    margin-left:4%;
+                       }
+                    .wlogo h1{
+                    font-size:1em;}
+                    #wlg{
+                        font-size: 1em;
+                    }
+
+            #wheading{
+                margin-top:5%;
+                font-size: 1em;
+                text-align: center;
+            }
+            
+             section{
+                    grid-template-columns: 1fr;
+                }
+                section{
+                    padding-right:15%;
+                }
+                .wp1,.wp2,.wp3{margin-top:10%;
+                margin-bottom: 5%;}
+                
+            #wback{
+                width:50px;
+            height:30px;
+            border-radius: 0px;
+            }
+            #wback a{
+                font-size: .8em;
+            }
+            
+                footer{
+                    margin-top:5%;
+                }
+                footer p{
+                    font-size: .8em;
+                }}
+
+@media all and (max-width:375px){
+                .wlogo{
+                    width:130px;
+                    height:30px;
+                    margin-left:4%;
+                       }
+                       #wlg{
+                        font-size: 1em;
+                    }
+
+                    .wlogo h1{
+                    font-size:1.1em;}
+            #wheading{
+                margin-top:5%;
+                font-size: 1em;
+                text-align: center;
+            }
+            
+             section{
+                    grid-template-columns:1fr;
+                }
+                section{
+                    padding-right:15%;
+                }
+                .wp1,.wp2,.wp3{margin-top:10%;
+                margin-bottom: 5%;}
+                
+                
+                button{
+                    width:20px;
+                    height:20px;
+                }
+                button a{
+                    font-size:1em
+
+            
+                }
+                
+                
+              
+            #wback{
+                width:50px;
+            height:30px;
+            border-radius: 0px;
+            }
+            #wback a{
+                font-size: .8em;
+            }
+            
+                footer{
+                    margin-top:5%;
+                }
+                footer p{
+                    font-size: .8em;
+                }}
+
+@media all and (max-width:360px){
+                   
+                   
+    .wlogo{
+        width:130px;
+        height:30px;
+        margin-left:4%;
+           }
+        .wlogo h1{
+        font-size:1.1em;}
+        #wlg{
+            font-size: 1em;
+        }
+
+
+        
+#wheading{
+    margin-top:5%;
+    font-size: 1em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+    
+    button{
+        width:20px;
+        height:20px;
+    }
+    button a{
+        font-size:1em
+
+    }
+    
+    
+    
+    
+    
+#wback{
+    width:50px;
+height:30px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: .8em;
+}
+
+    footer{
+        margin-top:5%;
+               
+}
+footer p{
+    font-size: .8em;
+}}
+
+@media all and (max-width:320px){
+    .wlogo{
+        width:120px;
+        height:28px;
+        margin-left:4%;
+           }
+        .wlogo h1{
+        font-size:1em;}
+#wheading{
+    margin-top:5%;
+    font-size: 1em;
+    text-align: center;
+}
+
+ section{
+        grid-template-columns: 1fr;
+    }
+    section{
+        padding-right:15%;
+    }
+    .wp1,.wp2,.wp3{margin-top:10%;
+    margin-bottom: 5%;}
+    
+    
+    button{
+        width:20px;
+        height:20px;
+    }
+    button a{
+        font-size:.9em
+
+    }
+    
+    
+    
+    
+    
+#wback{
+    width:45x;
+height:28px;
+border-radius: 0px;
+}
+#wback a{
+    font-size: .7em;
+}
+
+    footer{
+        margin-top:5%;        
+}
+footer p{
+    font-size: .8em;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

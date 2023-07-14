@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="years.css">
+    <link rel="stylesheet" href="PracticeME.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="update.css">
+    
+    
+         
+    <title>PracticeME∞ A/L 2015</title>
+</head>
+<body class="white">
+    <video  autoplay loop muted playsinline src='vid5.mp4' type='video/mp4' class="bgvid" controls></video>
+    <!-- logo section -->
+    <div class="wlogo">
+     <h1 id="wlg"><a href="#">PracticeME∞</a></h1>
+    </div> <p id="time"></p>
+    <p id="home"><a href="./index.html">
+        <img id='homeimg' src="./images/add-home-outline.svg" alt="home"></a></p>
+        <select name='selectedyear' id='selectedyear' onchange="location=this.value">
+            <option value="updateyear12.html">2012</option>
+            <option value="updateyear13.html">2013</option>
+            <option value="updateyear14.html">2014</option>
+            <option value="updateyear15.html" selected>2015</option>
+            <option value="updateyear16.html">2016</option>
+            <option value="updateyear17.html">2017</option>
+            <option value="updateyear18.html">2018</option>
+            <option value="updateyear19.html">2019</option>
+            <option value="updateyear20.html">2020</option>
+            <option value="updateyear21.html">2021</option>
+            <option value="updateyear22.html">2022</option>
+            <option value="downloads.html">Downloads</option>
+    
+        </select>
+    </div>
+ 
+
+    <h1 id="wheading">A/L ICT 2015 Pastpapers</h1>
+
+    <!-- grid section -->
+    <section>
+        <!-- card 1 section -->
+      <div class="wp1">
+        <div class="img">
+            <img  id="surface"src="./images/Frame 34 (1).png" alt="">
+        </div>
+        <div class="content">
+            <h3>PAPER I</h3><br>
+            <p>50 MULTIPLE  CHOICE QUESTIONS</p>
+
+
+        </div>
+       <button id="viewbtn"> <a href="./pastpapers/AL ICT 2015 Paper I.pdf">View</a></button>
+       
+        
+      </div>
+
+ <!-- card 2 section -->
+
+     <div class="wp2"> 
+         <div class="img"> 
+            <img  id="surface" src="./images/Frame 35.png" alt="">
+           
+         </div>
+         <div class="content">
+            <h3>PAPER II</h3><br>
+            <p>PART A : STRUCTURED ESSAY</p>
+            <p>PART B : ESSAY</p>
+
+
+        </div>
+         <button id="viewbtn"><a href="./pastpapers/AL ICT 2015 Paper II.pdf">View</a></button>
+        
+        </div>
+        </div>
+
+ <!-- card 3 section -->
+
+    <div class="wp3">
+         <div class="img">
+            <img  id="surface" src="./images/Frame 33 (1).png" alt="">
+         </div>
+         <div class="content">
+            <h3>MARKING SCHEME</h3><br>
+            <p>MARKING SCHEMES ARE AVAILABLE</p>
+            
+            
+
+
+        </div>
+         <button id="viewbtn"><a href="./pastpapers/AL ICT 2015 Marking Scheme.pdf">View</a></button>
+        
+        </div>
+        
+    </div>
+    </section>
+<!-- back button section -->
+        <button id="wback"><a href="updateyear14.html">2014</a></button>
+            <button id="nextbtn"><a href="updateyear16.html">2016</a></button>
+
+            <!-- footer section -->
+           <footer>
+         <hr> <div class="vbtn">
+        
+        <button id="version"><a href='./updateyear15.html'>Version_2023</a></button>
+    </div>
+       <p id="papercopyright">Copyright © 2023 PracticeME∞. All Rights Reserved. Developed by Savinthie Suwandaratna</p>
+    </footer>
+    <script>
+        var newdate= new Date().toDateString();
+    
+    document.getElementById('time').innerHTML=newdate;
+       </script>
+   
+</body>
+</html>
